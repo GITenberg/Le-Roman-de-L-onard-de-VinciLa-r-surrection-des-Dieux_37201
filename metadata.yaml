@@ -25,6 +25,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/36721
     wikipedia: http://en.wikipedia.org/wiki/Dmitry_Merezhkovsky
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/37201#Le-Roman-de-L-onard-de-VinciLa-r-surrection-des-Dieux
 gutenberg_bookshelf: FR Littérature
 gutenberg_issued: '2011-08-24'
 gutenberg_type: Text
