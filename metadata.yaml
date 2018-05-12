@@ -1,0 +1,44 @@
+_repo: Le-Roman-de-L-onard-de-VinciLa-r-surrection-des-Dieux_37201
+_version: 0.1.0
+alternative_title: Voskresshie bogi. French
+contributor:
+  translator:
+    agent_name: Sorrèze, Jacques
+    alias: Sorreze, Jacques
+    gutenberg_agent_id: '38701'
+    url: http://www.gutenberg.org/2009/agents/38701
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Merezhkovsky, Dmitry Sergeyevich
+    aliases:
+    - Merejkowski, Dmitri
+    - Mérejkowski, Dmitri
+    - Мережковский, Дмитрий Сергеевич
+    - Mérejkowsky, Dmitry de
+    - Merejkowsky, Dmitry de
+    birthdate: 1865
+    deathdate: 1941
+    gutenberg_agent_id: '36721'
+    url: http://www.gutenberg.org/2009/agents/36721
+    wikipedia: http://en.wikipedia.org/wiki/Dmitry_Merezhkovsky
+description: ''
+gutenberg_bookshelf: FR Littérature
+gutenberg_issued: '2011-08-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '37201'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Leonardo, da Vinci, 1452-1519 -- Fiction'
+- !lcc 'PG'
+- !lcsh 'Italy -- Fiction'
+- !lcsh 'Biographical fiction'
+- !lcsh 'Artists -- Fiction'
+title: 'Le Roman de Léonard de Vinci: La résurrection des Dieux'
+url: http://www.gutenberg.org/ebooks/37201
